@@ -1,4 +1,4 @@
-# lasergame
+# Laserquest implementation using C and x86_64 ASM
 The game employs multiple laser pistols operating at different frequencies, with MATLAB and Simulink used for simulation and testing. C and Assembly are utilized to perform Fourier transformations for frequency separation and score assignment.
 
 the .zip file contains the part 1 being the simulation and mostly the assembly of the system. Part 2 is the coding in C and ASM.
